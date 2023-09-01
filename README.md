@@ -1,1 +1,1 @@
-# Password_generator
+Using HTML, I structured the content of the application, ensuring proper organization and semantic markup. With CSS, I applied styling and layout techniques to create an appealing and visually consistent design. With JavaScript, I increased the responsiveness of the app and applied all the mandator changes that had to be made for the creation of the app.
